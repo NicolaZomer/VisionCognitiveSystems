@@ -5,8 +5,8 @@ This repository contains the practical exercises developed during the course [Vi
 - [Lab0](Lab0_Python_Numpy.ipynb): Tools, Numpy
 - [Lab1](Lab1_LinearRegression_ex.ipynb): Machine Learning, Linear Regression
 - [Lab2](Lab2_ImageFiltering.ipynb): Image Filtering
-- [Lab2+](Lab2+_LC_LR.ipynb): Linear Classification and Logistic Regression
 - [Lab2+](Lab2+_2D_DerivativeFilters.ipynb): Derivative Filters, Edge Detection
+- [Lab2+](Lab2+_LC_LR.ipynb): Linear Classification and Logistic Regression
 - Lab3: Local Visual Features
 - Lab4: Feature Matching, Logo contest
 - Lab5: BoW for image classification
