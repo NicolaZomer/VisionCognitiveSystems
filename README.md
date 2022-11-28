@@ -8,7 +8,7 @@ This repository contains the practical exercises developed during the course [Vi
 - [Lab2+](Lab2+_2D_DerivativeFilters.ipynb): Derivative Filters, Edge Detection
 - [Lab2+](Lab2+_LC_LR.ipynb): Linear Classification and Logistic Regression
 - [Lab3](Lab3_LocalVisualFeatures_SIFT.ipynb): Local Visual Features, SIFT Algorithm
-- Lab4: Feature Matching, Logo contest
-- Lab5: BoW for image classification
+- [Lab3+](Logo_Contest.ipynb): Feature Matching, Logo contest
+- [Lab4](Lab4_BoW.ipynb): BoW (Bag of visual words) for image classification
 - Lab6: ANN/MLP
 - Lab7: CNN contest
