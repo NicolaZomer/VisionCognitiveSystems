@@ -10,5 +10,5 @@ This repository contains the practical exercises developed during the course [Vi
 - [Lab3](Lab3_LocalVisualFeatures_SIFT.ipynb): Local Visual Features, SIFT Algorithm
 - [Lab4](Lab4_Logo_Contest.ipynb): Feature Matching, Logo contest
 - [Lab5](Lab5_BoW.ipynb): BoW (Bag of visual words) for image classification
-- Lab6: ANN/M
+- [Lab6](Lab6_Multilayer_Perceptron.ipynb): Multilayer Perceptron (MLP)
 - Lab7: CNN contest
